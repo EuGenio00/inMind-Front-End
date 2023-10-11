@@ -1,3 +1,5 @@
+import "./Cadastro.css";
+
 const Cadastro = () => {
   return (
     <div>
